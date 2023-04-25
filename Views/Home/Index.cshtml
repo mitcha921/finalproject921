@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model ProjectsViewModel
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div>
+    @foreach (Project p in Model.Projects)
+{
+            <h3>@p.ProjectName @p.ProjectId</h3>
+            <ul>
+                <li>
+                    Type: @p.ProjectType
+                </li>
+                <li>
+                    Program: @p.ProjectRegionalProgram
+                </li>
+                <li>
+                    Impact: @p.ProjectImpact served
+                </li>
+            
+            </ul>
+            <br />
+}
+</div>
+
+<div page-model="@Model.PageInfo" page-action="Index" page-classes-enabled="true" page-class="btn" page-class-normal="btn-outline-dark"
+     page-class-selected="btn-primary" class="btn-group pull-right m-1"></div>

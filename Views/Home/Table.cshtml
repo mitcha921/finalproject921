@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<Project>
+
+<table class="table table-bordered table-responsive">
+    <thead>
+        <tr>
+            <td>Project Id</td>
+            <td>Name</td>
+            <td>Type</td>
+            <td>Regional Program</td>
+            <td>Impact</td>
+            <td>Phase</td>
+            <td>Functionality Status</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>
+                    @p.ProjectId
+                </td>
+                <td>
+                    @p.ProjectName
+                </td>
+                <td>
+                    @p.ProjectType
+                </td>
+                <td>
+                    @p.ProjectRegionalProgram
+                </td>
+                <td>
+                    @p.ProjectImpact
+                </td>
+                <td>
+                    @p.ProjectPhase
+                </td>
+                <td>
+                    @p.ProjectFunctionalityStatus
+                </td>
+                <td><a asp-controller="Home" asp-action="Edit" asp-route-projectid="@p.ProjectId">Edit</a></td>
+                <td><a asp-controller="Home" asp-action="Delete" asp-route-projectid="@p.ProjectId">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

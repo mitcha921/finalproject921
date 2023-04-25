@@ -1,0 +1,152 @@
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/appsettings.Development.json
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/appsettings.json
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/finalproject921
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/finalproject921.deps.json
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/finalproject921.runtimeconfig.json
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/finalproject921.runtimeconfig.dev.json
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/finalproject921.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/finalproject921.pdb
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/finalproject921.Views.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/finalproject921.Views.pdb
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.csproj.AssemblyReference.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.AssemblyInfoInputs.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.AssemblyInfo.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.csproj.CoreCompileInputs.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.MvcApplicationPartsAssemblyInfo.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.RazorAssemblyInfo.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.RazorAssemblyInfo.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/scopedcss/bundle/finalproject921.styles.css
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/staticwebassets/finalproject921.StaticWebAssets.Manifest.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/staticwebassets/finalproject921.StaticWebAssets.Pack.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/staticwebassets/msbuild.finalproject921.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/staticwebassets/msbuild.build.finalproject921.props
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.finalproject921.props
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.finalproject921.props
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.TagHelpers.input.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.TagHelpers.output.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.RazorCoreGenerate.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.RazorTargetAssemblyInfo.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.RazorTargetAssemblyInfo.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.Views.pdb
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/refint/finalproject921.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.pdb
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.genruntimeconfig.cache
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/ref/finalproject921.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/finalproject921.csproj.CopyComplete
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Humanizer.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Table.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/Home/AddData.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Delete.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/appsettings.Development.json
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/appsettings.json
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/finalproject921
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/finalproject921.deps.json
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/finalproject921.runtimeconfig.json
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/finalproject921.runtimeconfig.dev.json
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/finalproject921.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/finalproject921.pdb
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/finalproject921.Views.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/finalproject921.Views.pdb
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Humanizer.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.csproj.AssemblyReference.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.AssemblyInfoInputs.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.AssemblyInfo.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.csproj.CoreCompileInputs.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.MvcApplicationPartsAssemblyInfo.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.RazorAssemblyInfo.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.RazorAssemblyInfo.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/scopedcss/bundle/finalproject921.styles.css
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/staticwebassets/finalproject921.StaticWebAssets.Manifest.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/staticwebassets/finalproject921.StaticWebAssets.Pack.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/staticwebassets/msbuild.finalproject921.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/staticwebassets/msbuild.build.finalproject921.props
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/staticwebassets/msbuild.buildMultiTargeting.finalproject921.props
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/staticwebassets/msbuild.buildTransitive.finalproject921.props
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.TagHelpers.input.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.TagHelpers.output.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.RazorCoreGenerate.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/Home/AddData.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Delete.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/Home/Table.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.RazorTargetAssemblyInfo.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.RazorTargetAssemblyInfo.cs
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.Views.pdb
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.csproj.CopyComplete
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/refint/finalproject921.dll
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.pdb
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/finalproject921.genruntimeconfig.cache
+/Users/mitchanderson/Projects/finalproject921 copy/finalproject921/obj/Debug/net5.0/ref/finalproject921.dll
